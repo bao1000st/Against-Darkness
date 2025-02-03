@@ -1,0 +1,36 @@
+-viet ham xet gameOver, de vao cuoi keyPressEvent va monsterattackPhase
+
+
+
+
+
+3_starting_Spell
+1_Starting_Spell_perlvl
+
+Great_Trader
+// Smell_Treasure_+_lvl // chua co tac dung gi trong phien ban hien tai
+
+
+
+tên quái: scorpion
+amountDice: 3, amountModifier: 0
+cấp quái: 1, số lượng rớt treasure: 0, modifier treasure: 0
+weakness: None
+khả năng: 1/6 gây 2 sát thương thay vì 1
+flee
+flee
+flee
+fight
+fight
+fight
+
+// Sleep HAS NO EFFECT AGAINST UNDEAD AND DRAGON
+
+
+
+
+
+
+
+
+

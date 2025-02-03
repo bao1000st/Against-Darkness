@@ -1,0 +1,210 @@
+6 7 5 0 1
+Scorpions
+3 0
+1 0 0
+None
+these_scorpions_have_1/6_chance_*to_deals_2_life_instead_of_1_life.
+flee
+flee
+flee
+fight
+fight
+fight
+Vampire_Bats
+3 0
+1 0 0
+None
+their_terror_shrieking_makes_*casting_spells_more_difficult.
+flee
+flee
+flee
+fight
+fight
+fight
+Goblin_Swarmlings
+2 0
+3 1 -1
+None
+These_small_creatures_is_*very_afraid_of_mercenaries.
+flee
+fleeIfOutnumbered
+fleeIfOutnumbered
+bride
+fight
+fight
+Giant_Centipedes
+1 3
+3 0 0
+None
+These_cretures_have_a_decent_*chance_to_inflict_additional_posion_damage.
+flee
+fleeIfOutnumbered
+fleeIfOutnumbered
+fight
+fight
+fight
+Vampire_Frogs
+1 2
+4 1 -1
+None
+These_monsters_are_very_*scare_of_holy_water.
+flee
+fight
+fight
+fight
+fightToDeath
+fightToDeath
+Ghouls_(Undead)
+2 0
+3 0 0
+Crushing
+These_monsters_are_immune_to_*ranged_weapons,_but_very_afraid_*of_holy_water.
+flee
+flee
+flee
+fight
+fight
+fight
+Skeletons_(Undead)
+2 2
+3 0 0
+Crushing
+ranged_attack_are_less_*effective_to_these_creatures,_*but_very_afraid_of_holy_water.
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+Zombies_(Undead)
+2 0
+3 0 0
+None
+ranged_attack_are_less_*effective_to_these_creatures,_*but_very_afraid_of_holy_water.
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+Goblins
+1 3
+3 1 -1
+None
+these_creatures_have_*1/6_chance_to_attack_first_at_*the_start_of_the_battle.
+fleeIfOutnumbered
+pride
+pride
+fight
+fight
+fight
+Hobgoblins
+1 2
+4 1 +1
+None
+although_quite_strong,_*these_creatures_are_very_*afraid_of_mercenary.
+fleeIfOutnumbered
+pride
+pride
+fight
+fight
+fightToDeath
+Orcs
+1 3
+4 1 0
+None
+although_quite_strong,_*these_creatures_are_very_*afraid_of_magic.
+pride
+pride
+fight
+fight
+fight
+fightToDeath
+Trolls
+1 0
+5 1 0
+None
+these_creatures_have_*ability_to_regenerate.
+fight
+fight
+fightToDeath
+fightToDeath
+fightToDeath
+fightToDeath
+Fungi_Folk
+2 0
+3 1 0
+None
+These_folk_have_a_good_*chance_to_inflict_additional_posion_damage.
+bride
+bride
+fight
+fight
+fight
+fight
+Minotaur
+-6 0
+5 1 0
+None
+Due_to_the_power_*of_his_charge,_it_is_more_difficult_*to_defense_his_attacks.
+bride
+bride
+fight
+fight
+fightToDeath
+fightToDeath
+Iron_Eater
+-7 0
+3 0 0
+None
+if_this_monster_hits,_*the_character_loses_his_armor,_off-hand,_*main-hand_or_golds.
+flee
+bride
+bride
+fight
+fight
+fight
+Chimera
+-7 0
+5 1 0
+None
+this_ferocious_monster_can_burn_*their_victim_with_its_fire_breath.
+bride
+bride
+fight
+fight
+fight
+fight
+Catoblepas
+-6 0
+4 1 +1
+None
+this_weird_monster_will_attack_*their_enemies_first_with_its_gaze_attack.
+flee
+fight
+fight
+fight
+fight
+fight
+Insect_King
+-6 0
+5 2 0
+None
+Due_to_the_webbing,_*character_cannot_escape_this_monster._*It_also_has_a_powerful_posionous_attack.
+fight
+fight
+fight
+fight
+fight
+fight
+Statue
+-7 0
+4 1 0
+None
+This_alive_statue_is_immune_*to_all_spells.
+fight
+fight
+fight
+fight
+fight
+fight

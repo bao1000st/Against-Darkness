@@ -1,0 +1,97 @@
+32
+Shield
+5 -1
+Help_protecting_the_character_*from_enemy's_attack.
+Sling
+4 -1
+A_crushing_ranged_weapon,_*have_low_chance_to_deals_*small_damage_before_combat_even_begins.
+Bow
+15 -1
+A_slashing_ranged_weapon,_*have_decent_chance_to_deals_*small_damage_before_combat_even_begins.
+Light_Weapon
+5 -1
+A_small_weapon,_weak_*but_suitable_for_magic_users. 
+Crushing_Hand_Weapon
+6 -1
+A_decent_weapon_that_*deals_crushing_blows.
+Slashing_Hand_Weapon
+6 -1
+A_decent_weapon_that_*deals_slashing_blows.
+Crushing_Two-handed_Weapon
+15 -1
+A_big_weapon_that_deals_*crushing_blows._Cannot_use_this_*weapon_while_using_shield.
+Slashing_Two-handed_Weapon
+15 -1
+A_big_weapon_that_deals_*slashing_blows._Cannot_use_this_*weapon_while_using_shield.
+Poison_Slashing_Hand_Weapon
+50 -1
+A_slashing_decent_weapon_that_*has_been_added_with_poison,_*dealing_more_damage.
+Poison_Slashing_Two-handed_Weapon
+75 -1
+A_slashing_big_weapon_that_*has_been_added_with_poison,_*dealing_more_damage._*Cannot_use_this_weapon_while_using_shield.
+Light_Armor
+10 -1
+A_decent_protective_armor,_*suitable_for_almost_all_type_of_classes.
+Heavy_Armor
+30 -1
+A_great_protective_armor,_*best_option_for_warriors_and_alike.
+Bandage
+5 1
+Heals_1_life_for_*the_character.
+Rope
+4 1
+Used_to_tie_up_*defeated_monster.
+Holy_Water_Vial
+30 1
+Can_be_used_to_throw_at_*unholy_creatures_like_vampires,_demons_*and_deals_damage_to_them. 
+Gem
+30 1
+Can_be_sell_for_a_decent_price.
+Jewelry
+60 1
+Can_be_sell_for_a_good_price.
+Resurrection_Ritual
+100 1
+A_powerful_spell_that_have_a_*chance_to_bring_a_dead_person_back_to_life.
+Blessing_Spell
+100 1
+This_spell_removes_*any_curse_from_character.
+Fireball_Spell
+100 1
+A_powerful_spell_excels_*at_killing_vermins_and_minions.
+Lightning_Bolt_Spell
+100 1
+A_powerful_spell_excels_*at_attacking_bosses.
+Sleeping_Spell
+100 1
+A_spell_that_can_*completely_defeat_bosses_or_many_*monsters_if_cast_succesfully,_*has_no_effect_against_undead_and_dragon.
+Escaping_Spell
+100 1
+Help_all_characters_escaping_*losing_battles_*if_cast_succesfully.
+Protecting_Spell
+100 1
+A_spell_that_make_*enemy_attacks_have_no_effect_*for_the_whole_battle.
+Potion_of_Healing
+100 1
+A_magic_item_that_can_*restores_2_life_to_one_character.
+Wand_of_Sleep
+200 3
+A_magic_item_that_can_*cast_sleeping_spell_3_times._*Can_only_be_used_by_wizards_or_elfs.
+Ring_of_Teleportation
+200 1
+Help_the_character_*escaping_losing_battles.
+Fools_Gold
+200 1
+A_magic_item_that_*can_pride_any_monster.
+Magic_Weapon
+200 -1
+A_very_powerful_weapon_*can_be_equipped_by_any_classes_*except_barbarian.
+Fireball_Staff
+200 3
+A_magic_item_that_can_*cast_fireball_spell_3_times._*Can_only_be_used_by_wizards_or_elfs.
+Blessing_Gloves
+200 3
+A_magic_item_that_can_*cast_blessing_spell_3_times._*Can_only_be_used_by_clerics.
+Healing_Staff
+200 3
+A_magic_item_that_can_*restore_1_life_3_times._*Can_only_be_used_by_clerics.

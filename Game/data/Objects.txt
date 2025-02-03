@@ -1,0 +1,71 @@
+35
+Void
+0 0
+Floor
+1 0
+Door
+1 0
+Corridor
+1 0
+Treasure
+1 1
+Trap_Treasure
+1 1
+Fountain
+1 1
+Dried_Fountain
+1 0
+Holy_Relic
+1 1
+Used_Holy_Relic
+1 0
+Armory
+1 1
+Cursed_Altar
+1 0
+Statue
+1 1
+Puzzle
+1 1
+Solved_Puzzle
+1 0
+Terrifiyng_Ghost
+1 0
+Scorpions
+1 1
+Vampire_Bats
+1 1
+Goblin_Swarmlings
+1 1
+Giant_Centipedes
+1 1
+Vampire_Frogs
+1 1 
+Ghouls
+1 1
+Skeletons
+1 1
+Zombies
+1 1
+Goblins
+1 1
+Hobgoblins
+1 1
+Orcs
+1 1
+Trolls
+1 1
+Fungi_Folk
+1 1
+Minotaur
+1 1
+Iron_Eater
+1 1
+Chimera
+1 1
+Catoblepas
+1 1
+Insect_King
+1 1
+Invisible_Gremlins
+1 1
